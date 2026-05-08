@@ -1,0 +1,195 @@
+# =========================
+
+# Python
+
+# =========================
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Compiled Extensions
+
+*.so
+
+# Distribution / Packaging
+
+.Python
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# =========================
+
+# Virtual Environments
+
+# =========================
+
+venv/
+env/
+ENV/
+
+# =========================
+
+# Environment Variables
+
+# =========================
+
+.env
+.env.local
+.env.*.local
+
+# =========================
+
+# IDE / Editor
+
+# =========================
+
+.vscode/
+.idea/
+
+# =========================
+
+# Logs
+
+# =========================
+
+*.log
+logs/
+
+# =========================
+
+# Database Files
+
+# =========================
+
+*.db
+*.sqlite3
+
+# =========================
+
+# ChromaDB
+
+# =========================
+
+chroma/
+chromadb/
+
+# =========================
+
+# Ollama
+
+# =========================
+
+ollama/
+models/
+
+# =========================
+
+# Playwright
+
+# =========================
+
+playwright-report/
+test-results/
+
+# =========================
+
+# Docker
+
+# =========================
+
+docker-data/
+
+# =========================
+
+# OS Files
+
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# Cache
+
+# =========================
+
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# =========================
+
+# Jupyter
+
+# =========================
+
+.ipynb_checkpoints/
+
+# =========================
+
+# Temporary Files
+
+# =========================
+
+tmp/
+temp/
+
+# =========================
+
+# Node Modules (if frontend added later)
+
+# =========================
+
+node_modules/
+
+# =========================
+
+# Secrets
+
+# =========================
+
+secrets/
+credentials/
+*.pem
+*.key
+
+# =========================
+
+# Coverage Reports
+
+# =========================
+
+htmlcov/
+.coverage
+coverage.xml
+
+# =========================
+
+# FastAPI
+
+# =========================
+
+*.pid
+
+# =========================
+
+# Misc
+
+# =========================
+
+*.bak
+*.swp
