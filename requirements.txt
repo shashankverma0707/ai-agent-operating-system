@@ -1,0 +1,16 @@
+crewai
+langchain
+langchain-community
+langchain-core
+ollama
+fastapi
+uvicorn
+chromadb
+playwright
+pydantic
+psycopg2-binary
+sqlalchemy
+python-dotenv
+requests
+beautifulsoup4
+lxml
